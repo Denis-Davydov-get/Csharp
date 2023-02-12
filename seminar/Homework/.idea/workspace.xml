@@ -1,0 +1,1165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="80ee44bb-45b5-42c9-ba4d-47d77d1ae1f1" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/HomeWork_Csharp_5/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWok_CSharp_2/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWok_CSharp_2/Task_10/Program.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWok_CSharp_2/Task_10/Task_10.csproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWok_CSharp_2/Task_10/bin/Debug/net7.0/Task_10.deps.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWok_CSharp_2/Task_10/bin/Debug/net7.0/Task_10.runtimeconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWok_CSharp_2/Task_10/obj/Debug/net7.0/.NETCoreApp,Version=v7.0.AssemblyAttributes.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWok_CSharp_2/Task_10/obj/Debug/net7.0/Task_10.AssemblyInfo.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWok_CSharp_2/Task_10/obj/Debug/net7.0/Task_10.AssemblyInfoInputs.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWok_CSharp_2/Task_10/obj/Debug/net7.0/Task_10.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWok_CSharp_2/Task_10/obj/Debug/net7.0/Task_10.GlobalUsings.g.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWok_CSharp_2/Task_10/obj/Debug/net7.0/Task_10.assets.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWok_CSharp_2/Task_10/obj/Debug/net7.0/Task_10.csproj.AssemblyReference.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWok_CSharp_2/Task_10/obj/Debug/net7.0/Task_10.csproj.CoreCompileInputs.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWok_CSharp_2/Task_10/obj/Debug/net7.0/Task_10.csproj.FileListAbsolute.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWok_CSharp_2/Task_10/obj/Debug/net7.0/Task_10.genruntimeconfig.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWok_CSharp_2/Task_10/obj/Task_10.csproj.nuget.dgspec.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWok_CSharp_2/Task_10/obj/Task_10.csproj.nuget.g.props" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWok_CSharp_2/Task_10/obj/Task_10.csproj.nuget.g.targets" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWok_CSharp_2/Task_10/obj/project.assets.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWok_CSharp_2/Task_10/obj/project.nuget.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWok_CSharp_2/Task_13/Program.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWok_CSharp_2/Task_13/Task_13.csproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWok_CSharp_2/Task_13/bin/Debug/net7.0/Task_13" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWok_CSharp_2/Task_13/bin/Debug/net7.0/Task_13.deps.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWok_CSharp_2/Task_13/bin/Debug/net7.0/Task_13.runtimeconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWok_CSharp_2/Task_13/obj/Debug/net7.0/.NETCoreApp,Version=v7.0.AssemblyAttributes.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWok_CSharp_2/Task_13/obj/Debug/net7.0/Task_13.AssemblyInfo.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWok_CSharp_2/Task_13/obj/Debug/net7.0/Task_13.AssemblyInfoInputs.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWok_CSharp_2/Task_13/obj/Debug/net7.0/Task_13.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWok_CSharp_2/Task_13/obj/Debug/net7.0/Task_13.GlobalUsings.g.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWok_CSharp_2/Task_13/obj/Debug/net7.0/Task_13.assets.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWok_CSharp_2/Task_13/obj/Debug/net7.0/Task_13.csproj.AssemblyReference.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWok_CSharp_2/Task_13/obj/Debug/net7.0/Task_13.csproj.CoreCompileInputs.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWok_CSharp_2/Task_13/obj/Debug/net7.0/Task_13.csproj.FileListAbsolute.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWok_CSharp_2/Task_13/obj/Debug/net7.0/Task_13.genruntimeconfig.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWok_CSharp_2/Task_13/obj/Debug/net7.0/apphost" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWok_CSharp_2/Task_13/obj/Task_13.csproj.nuget.dgspec.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWok_CSharp_2/Task_13/obj/Task_13.csproj.nuget.g.props" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWok_CSharp_2/Task_13/obj/Task_13.csproj.nuget.g.targets" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWok_CSharp_2/Task_13/obj/project.assets.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWok_CSharp_2/Task_13/obj/project.nuget.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWok_CSharp_2/Task_15/Program.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWok_CSharp_2/Task_15/Task_15.csproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWok_CSharp_2/Task_15/bin/Debug/net7.0/Task_15.deps.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWok_CSharp_2/Task_15/bin/Debug/net7.0/Task_15.runtimeconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWok_CSharp_2/Task_15/obj/Debug/net7.0/.NETCoreApp,Version=v7.0.AssemblyAttributes.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWok_CSharp_2/Task_15/obj/Debug/net7.0/Task_15.AssemblyInfo.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWok_CSharp_2/Task_15/obj/Debug/net7.0/Task_15.AssemblyInfoInputs.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWok_CSharp_2/Task_15/obj/Debug/net7.0/Task_15.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWok_CSharp_2/Task_15/obj/Debug/net7.0/Task_15.GlobalUsings.g.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWok_CSharp_2/Task_15/obj/Debug/net7.0/Task_15.assets.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWok_CSharp_2/Task_15/obj/Debug/net7.0/Task_15.csproj.AssemblyReference.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWok_CSharp_2/Task_15/obj/Debug/net7.0/Task_15.csproj.CoreCompileInputs.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWok_CSharp_2/Task_15/obj/Debug/net7.0/Task_15.csproj.FileListAbsolute.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWok_CSharp_2/Task_15/obj/Debug/net7.0/Task_15.genruntimeconfig.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWok_CSharp_2/Task_15/obj/Task_15.csproj.nuget.dgspec.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWok_CSharp_2/Task_15/obj/Task_15.csproj.nuget.g.props" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWok_CSharp_2/Task_15/obj/Task_15.csproj.nuget.g.targets" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWok_CSharp_2/Task_15/obj/project.assets.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWok_CSharp_2/Task_15/obj/project.nuget.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_1/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_1/task_2/Program.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_1/task_2/bin/Debug/net7.0/task_2.deps.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_1/task_2/bin/Debug/net7.0/task_2.runtimeconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_1/task_2/obj/Debug/net7.0/.NETCoreApp,Version=v7.0.AssemblyAttributes.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_1/task_2/obj/Debug/net7.0/task_2.AssemblyInfo.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_1/task_2/obj/Debug/net7.0/task_2.AssemblyInfoInputs.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_1/task_2/obj/Debug/net7.0/task_2.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_1/task_2/obj/Debug/net7.0/task_2.GlobalUsings.g.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_1/task_2/obj/Debug/net7.0/task_2.assets.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_1/task_2/obj/Debug/net7.0/task_2.csproj.AssemblyReference.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_1/task_2/obj/Debug/net7.0/task_2.csproj.CoreCompileInputs.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_1/task_2/obj/Debug/net7.0/task_2.csproj.FileListAbsolute.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_1/task_2/obj/Debug/net7.0/task_2.genruntimeconfig.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_1/task_2/obj/project.assets.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_1/task_2/obj/project.nuget.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_1/task_2/obj/task_2.csproj.nuget.dgspec.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_1/task_2/obj/task_2.csproj.nuget.g.props" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_1/task_2/obj/task_2.csproj.nuget.g.targets" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_1/task_2/task_2.csproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_1/task_4/Program.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_1/task_4/bin/Debug/net7.0/task_4.deps.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_1/task_4/bin/Debug/net7.0/task_4.runtimeconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_1/task_4/obj/Debug/net7.0/.NETCoreApp,Version=v7.0.AssemblyAttributes.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_1/task_4/obj/Debug/net7.0/task_4.AssemblyInfo.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_1/task_4/obj/Debug/net7.0/task_4.AssemblyInfoInputs.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_1/task_4/obj/Debug/net7.0/task_4.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_1/task_4/obj/Debug/net7.0/task_4.GlobalUsings.g.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_1/task_4/obj/Debug/net7.0/task_4.assets.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_1/task_4/obj/Debug/net7.0/task_4.csproj.AssemblyReference.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_1/task_4/obj/Debug/net7.0/task_4.csproj.CoreCompileInputs.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_1/task_4/obj/Debug/net7.0/task_4.csproj.FileListAbsolute.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_1/task_4/obj/Debug/net7.0/task_4.genruntimeconfig.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_1/task_4/obj/project.assets.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_1/task_4/obj/project.nuget.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_1/task_4/obj/task_4.csproj.nuget.dgspec.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_1/task_4/obj/task_4.csproj.nuget.g.props" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_1/task_4/obj/task_4.csproj.nuget.g.targets" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_1/task_4/task_4.csproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_1/task_6/Program.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_1/task_6/bin/Debug/net7.0/task_6" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_1/task_6/bin/Debug/net7.0/task_6.deps.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_1/task_6/bin/Debug/net7.0/task_6.runtimeconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_1/task_6/obj/Debug/net7.0/.NETCoreApp,Version=v7.0.AssemblyAttributes.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_1/task_6/obj/Debug/net7.0/apphost" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_1/task_6/obj/Debug/net7.0/task_6.AssemblyInfo.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_1/task_6/obj/Debug/net7.0/task_6.AssemblyInfoInputs.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_1/task_6/obj/Debug/net7.0/task_6.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_1/task_6/obj/Debug/net7.0/task_6.GlobalUsings.g.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_1/task_6/obj/Debug/net7.0/task_6.assets.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_1/task_6/obj/Debug/net7.0/task_6.csproj.AssemblyReference.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_1/task_6/obj/Debug/net7.0/task_6.csproj.CoreCompileInputs.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_1/task_6/obj/Debug/net7.0/task_6.csproj.FileListAbsolute.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_1/task_6/obj/Debug/net7.0/task_6.genruntimeconfig.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_1/task_6/obj/project.assets.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_1/task_6/obj/project.nuget.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_1/task_6/obj/task_6.csproj.nuget.dgspec.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_1/task_6/obj/task_6.csproj.nuget.g.props" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_1/task_6/obj/task_6.csproj.nuget.g.targets" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_1/task_6/task_6.csproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_1/task_8/Program.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_1/task_8/bin/Debug/net7.0/task_8" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_1/task_8/bin/Debug/net7.0/task_8.deps.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_1/task_8/bin/Debug/net7.0/task_8.runtimeconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_1/task_8/obj/Debug/net7.0/.NETCoreApp,Version=v7.0.AssemblyAttributes.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_1/task_8/obj/Debug/net7.0/apphost" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_1/task_8/obj/Debug/net7.0/task_8.AssemblyInfo.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_1/task_8/obj/Debug/net7.0/task_8.AssemblyInfoInputs.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_1/task_8/obj/Debug/net7.0/task_8.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_1/task_8/obj/Debug/net7.0/task_8.GlobalUsings.g.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_1/task_8/obj/Debug/net7.0/task_8.assets.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_1/task_8/obj/Debug/net7.0/task_8.csproj.AssemblyReference.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_1/task_8/obj/Debug/net7.0/task_8.csproj.CoreCompileInputs.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_1/task_8/obj/Debug/net7.0/task_8.csproj.FileListAbsolute.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_1/task_8/obj/Debug/net7.0/task_8.genruntimeconfig.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_1/task_8/obj/project.assets.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_1/task_8/obj/project.nuget.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_1/task_8/obj/task_8.csproj.nuget.dgspec.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_1/task_8/obj/task_8.csproj.nuget.g.props" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_1/task_8/obj/task_8.csproj.nuget.g.targets" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_1/task_8/task_8.csproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_3/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_3/.vscode/launch.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_3/.vscode/tasks.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_3/task_19/Program.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_3/task_19/bin/Debug/net7.0/task_19.deps.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_3/task_19/bin/Debug/net7.0/task_19.runtimeconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_3/task_19/obj/Debug/net7.0/.NETCoreApp,Version=v7.0.AssemblyAttributes.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_3/task_19/obj/Debug/net7.0/task_19.AssemblyInfo.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_3/task_19/obj/Debug/net7.0/task_19.AssemblyInfoInputs.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_3/task_19/obj/Debug/net7.0/task_19.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_3/task_19/obj/Debug/net7.0/task_19.GlobalUsings.g.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_3/task_19/obj/Debug/net7.0/task_19.assets.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_3/task_19/obj/Debug/net7.0/task_19.csproj.AssemblyReference.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_3/task_19/obj/Debug/net7.0/task_19.csproj.CoreCompileInputs.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_3/task_19/obj/Debug/net7.0/task_19.csproj.FileListAbsolute.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_3/task_19/obj/Debug/net7.0/task_19.genruntimeconfig.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_3/task_19/obj/project.assets.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_3/task_19/obj/project.nuget.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_3/task_19/obj/task_19.csproj.nuget.dgspec.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_3/task_19/obj/task_19.csproj.nuget.g.props" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_3/task_19/obj/task_19.csproj.nuget.g.targets" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_3/task_19/task_19.csproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_3/task_21/Program.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_3/task_21/bin/Debug/net7.0/task_21.deps.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_3/task_21/bin/Debug/net7.0/task_21.runtimeconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_3/task_21/obj/Debug/net7.0/.NETCoreApp,Version=v7.0.AssemblyAttributes.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_3/task_21/obj/Debug/net7.0/task_21.AssemblyInfo.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_3/task_21/obj/Debug/net7.0/task_21.AssemblyInfoInputs.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_3/task_21/obj/Debug/net7.0/task_21.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_3/task_21/obj/Debug/net7.0/task_21.GlobalUsings.g.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_3/task_21/obj/Debug/net7.0/task_21.assets.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_3/task_21/obj/Debug/net7.0/task_21.csproj.AssemblyReference.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_3/task_21/obj/Debug/net7.0/task_21.csproj.CoreCompileInputs.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_3/task_21/obj/Debug/net7.0/task_21.csproj.FileListAbsolute.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_3/task_21/obj/Debug/net7.0/task_21.genruntimeconfig.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_3/task_21/obj/project.assets.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_3/task_21/obj/project.nuget.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_3/task_21/obj/task_21.csproj.nuget.dgspec.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_3/task_21/obj/task_21.csproj.nuget.g.props" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_3/task_21/obj/task_21.csproj.nuget.g.targets" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_3/task_21/task_21.csproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_3/task_23/Program.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_3/task_23/bin/Debug/net7.0/task_23.deps.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_3/task_23/bin/Debug/net7.0/task_23.runtimeconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_3/task_23/obj/Debug/net7.0/.NETCoreApp,Version=v7.0.AssemblyAttributes.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_3/task_23/obj/Debug/net7.0/task_23.AssemblyInfo.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_3/task_23/obj/Debug/net7.0/task_23.AssemblyInfoInputs.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_3/task_23/obj/Debug/net7.0/task_23.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_3/task_23/obj/Debug/net7.0/task_23.GlobalUsings.g.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_3/task_23/obj/Debug/net7.0/task_23.assets.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_3/task_23/obj/Debug/net7.0/task_23.csproj.AssemblyReference.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_3/task_23/obj/Debug/net7.0/task_23.csproj.CoreCompileInputs.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_3/task_23/obj/Debug/net7.0/task_23.csproj.FileListAbsolute.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_3/task_23/obj/Debug/net7.0/task_23.genruntimeconfig.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_3/task_23/obj/project.assets.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_3/task_23/obj/project.nuget.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_3/task_23/obj/task_23.csproj.nuget.dgspec.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_3/task_23/obj/task_23.csproj.nuget.g.props" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_3/task_23/obj/task_23.csproj.nuget.g.targets" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_3/task_23/task_23.csproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_4/task25/Program.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_4/task25/bin/Debug/net7.0/task25" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_4/task25/bin/Debug/net7.0/task25.deps.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_4/task25/bin/Debug/net7.0/task25.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_4/task25/bin/Debug/net7.0/task25.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_4/task25/bin/Debug/net7.0/task25.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_4/task25/bin/Debug/net7.0/task25.runtimeconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_4/task25/obj/Debug/net7.0/.NETCoreApp,Version=v7.0.AssemblyAttributes.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_4/task25/obj/Debug/net7.0/apphost" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_4/task25/obj/Debug/net7.0/apphost.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_4/task25/obj/Debug/net7.0/ref/task25.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_4/task25/obj/Debug/net7.0/refint/task25.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_4/task25/obj/Debug/net7.0/task25.AssemblyInfo.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_4/task25/obj/Debug/net7.0/task25.AssemblyInfoInputs.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_4/task25/obj/Debug/net7.0/task25.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_4/task25/obj/Debug/net7.0/task25.GlobalUsings.g.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_4/task25/obj/Debug/net7.0/task25.assets.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_4/task25/obj/Debug/net7.0/task25.csproj.AssemblyReference.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_4/task25/obj/Debug/net7.0/task25.csproj.CoreCompileInputs.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_4/task25/obj/Debug/net7.0/task25.csproj.FileListAbsolute.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_4/task25/obj/Debug/net7.0/task25.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_4/task25/obj/Debug/net7.0/task25.genruntimeconfig.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_4/task25/obj/Debug/net7.0/task25.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_4/task25/obj/project.assets.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_4/task25/obj/project.nuget.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_4/task25/obj/task25.csproj.nuget.dgspec.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_4/task25/obj/task25.csproj.nuget.g.props" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_4/task25/obj/task25.csproj.nuget.g.targets" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_4/task25/task25.csproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_4/task27/Program.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_4/task27/bin/Debug/net7.0/task27" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_4/task27/bin/Debug/net7.0/task27.deps.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_4/task27/bin/Debug/net7.0/task27.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_4/task27/bin/Debug/net7.0/task27.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_4/task27/bin/Debug/net7.0/task27.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_4/task27/bin/Debug/net7.0/task27.runtimeconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_4/task27/obj/Debug/net7.0/.NETCoreApp,Version=v7.0.AssemblyAttributes.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_4/task27/obj/Debug/net7.0/apphost" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_4/task27/obj/Debug/net7.0/apphost.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_4/task27/obj/Debug/net7.0/ref/task27.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_4/task27/obj/Debug/net7.0/refint/task27.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_4/task27/obj/Debug/net7.0/task27.AssemblyInfo.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_4/task27/obj/Debug/net7.0/task27.AssemblyInfoInputs.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_4/task27/obj/Debug/net7.0/task27.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_4/task27/obj/Debug/net7.0/task27.GlobalUsings.g.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_4/task27/obj/Debug/net7.0/task27.assets.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_4/task27/obj/Debug/net7.0/task27.csproj.AssemblyReference.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_4/task27/obj/Debug/net7.0/task27.csproj.CoreCompileInputs.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_4/task27/obj/Debug/net7.0/task27.csproj.FileListAbsolute.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_4/task27/obj/Debug/net7.0/task27.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_4/task27/obj/Debug/net7.0/task27.genruntimeconfig.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_4/task27/obj/Debug/net7.0/task27.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_4/task27/obj/project.assets.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_4/task27/obj/project.nuget.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_4/task27/obj/task27.csproj.nuget.dgspec.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_4/task27/obj/task27.csproj.nuget.g.props" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_4/task27/obj/task27.csproj.nuget.g.targets" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_4/task27/task27.csproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_4/task29/Program.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_4/task29/bin/Debug/net7.0/task29" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_4/task29/bin/Debug/net7.0/task29.deps.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_4/task29/bin/Debug/net7.0/task29.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_4/task29/bin/Debug/net7.0/task29.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_4/task29/bin/Debug/net7.0/task29.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_4/task29/bin/Debug/net7.0/task29.runtimeconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_4/task29/obj/Debug/net7.0/.NETCoreApp,Version=v7.0.AssemblyAttributes.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_4/task29/obj/Debug/net7.0/apphost" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_4/task29/obj/Debug/net7.0/apphost.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_4/task29/obj/Debug/net7.0/ref/task29.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_4/task29/obj/Debug/net7.0/refint/task29.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_4/task29/obj/Debug/net7.0/task29.AssemblyInfo.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_4/task29/obj/Debug/net7.0/task29.AssemblyInfoInputs.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_4/task29/obj/Debug/net7.0/task29.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_4/task29/obj/Debug/net7.0/task29.GlobalUsings.g.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_4/task29/obj/Debug/net7.0/task29.assets.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_4/task29/obj/Debug/net7.0/task29.csproj.AssemblyReference.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_4/task29/obj/Debug/net7.0/task29.csproj.CoreCompileInputs.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_4/task29/obj/Debug/net7.0/task29.csproj.FileListAbsolute.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_4/task29/obj/Debug/net7.0/task29.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_4/task29/obj/Debug/net7.0/task29.genruntimeconfig.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_4/task29/obj/Debug/net7.0/task29.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_4/task29/obj/project.assets.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_4/task29/obj/project.nuget.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_4/task29/obj/task29.csproj.nuget.dgspec.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_4/task29/obj/task29.csproj.nuget.g.props" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_4/task29/obj/task29.csproj.nuget.g.targets" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_4/task29/task29.csproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_5/task34/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/HomeWork_Csharp_5/task34/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_5/task34/bin/Debug/net7.0/task34.deps.json" beforeDir="false" afterPath="$PROJECT_DIR$/HomeWork_Csharp_5/task34/bin/Debug/net7.0/task34.deps.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_5/task34/bin/Debug/net7.0/task34.dll" beforeDir="false" afterPath="$PROJECT_DIR$/HomeWork_Csharp_5/task34/bin/Debug/net7.0/task34.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_5/task34/bin/Debug/net7.0/task34.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/HomeWork_Csharp_5/task34/bin/Debug/net7.0/task34.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_5/task34/bin/Debug/net7.0/task34.runtimeconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/HomeWork_Csharp_5/task34/bin/Debug/net7.0/task34.runtimeconfig.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_5/task34/obj/Debug/net7.0/.NETCoreApp,Version=v7.0.AssemblyAttributes.cs" beforeDir="false" afterPath="$PROJECT_DIR$/HomeWork_Csharp_5/task34/obj/Debug/net7.0/.NETCoreApp,Version=v7.0.AssemblyAttributes.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_5/task34/obj/Debug/net7.0/task34.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/HomeWork_Csharp_5/task34/obj/Debug/net7.0/task34.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_5/task34/obj/Debug/net7.0/task34.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/HomeWork_Csharp_5/task34/obj/Debug/net7.0/task34.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_5/task34/obj/Debug/net7.0/task34.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/HomeWork_Csharp_5/task34/obj/Debug/net7.0/task34.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_5/task34/obj/Debug/net7.0/task34.GlobalUsings.g.cs" beforeDir="false" afterPath="$PROJECT_DIR$/HomeWork_Csharp_5/task34/obj/Debug/net7.0/task34.GlobalUsings.g.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_5/task34/obj/Debug/net7.0/task34.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/HomeWork_Csharp_5/task34/obj/Debug/net7.0/task34.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_5/task34/obj/Debug/net7.0/task34.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/HomeWork_Csharp_5/task34/obj/Debug/net7.0/task34.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_5/task34/obj/Debug/net7.0/task34.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/HomeWork_Csharp_5/task34/obj/Debug/net7.0/task34.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_5/task34/obj/Debug/net7.0/task34.genruntimeconfig.cache" beforeDir="false" afterPath="$PROJECT_DIR$/HomeWork_Csharp_5/task34/obj/Debug/net7.0/task34.genruntimeconfig.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_5/task34/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/HomeWork_Csharp_5/task34/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_5/task34/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/HomeWork_Csharp_5/task34/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_5/task34/obj/task34.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/HomeWork_Csharp_5/task34/obj/task34.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_5/task34/obj/task34.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/HomeWork_Csharp_5/task34/obj/task34.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_5/task34/task34.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/HomeWork_Csharp_5/task34/task34.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_5/task36/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/HomeWork_Csharp_5/task36/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_5/task36/bin/Debug/net7.0/task36.deps.json" beforeDir="false" afterPath="$PROJECT_DIR$/HomeWork_Csharp_5/task36/bin/Debug/net7.0/task36.deps.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_5/task36/bin/Debug/net7.0/task36.dll" beforeDir="false" afterPath="$PROJECT_DIR$/HomeWork_Csharp_5/task36/bin/Debug/net7.0/task36.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_5/task36/bin/Debug/net7.0/task36.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/HomeWork_Csharp_5/task36/bin/Debug/net7.0/task36.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_5/task36/bin/Debug/net7.0/task36.runtimeconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/HomeWork_Csharp_5/task36/bin/Debug/net7.0/task36.runtimeconfig.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_5/task36/obj/Debug/net7.0/.NETCoreApp,Version=v7.0.AssemblyAttributes.cs" beforeDir="false" afterPath="$PROJECT_DIR$/HomeWork_Csharp_5/task36/obj/Debug/net7.0/.NETCoreApp,Version=v7.0.AssemblyAttributes.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_5/task36/obj/Debug/net7.0/task36.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/HomeWork_Csharp_5/task36/obj/Debug/net7.0/task36.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_5/task36/obj/Debug/net7.0/task36.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/HomeWork_Csharp_5/task36/obj/Debug/net7.0/task36.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_5/task36/obj/Debug/net7.0/task36.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/HomeWork_Csharp_5/task36/obj/Debug/net7.0/task36.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_5/task36/obj/Debug/net7.0/task36.GlobalUsings.g.cs" beforeDir="false" afterPath="$PROJECT_DIR$/HomeWork_Csharp_5/task36/obj/Debug/net7.0/task36.GlobalUsings.g.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_5/task36/obj/Debug/net7.0/task36.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/HomeWork_Csharp_5/task36/obj/Debug/net7.0/task36.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_5/task36/obj/Debug/net7.0/task36.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/HomeWork_Csharp_5/task36/obj/Debug/net7.0/task36.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_5/task36/obj/Debug/net7.0/task36.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/HomeWork_Csharp_5/task36/obj/Debug/net7.0/task36.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_5/task36/obj/Debug/net7.0/task36.dll" beforeDir="false" afterPath="$PROJECT_DIR$/HomeWork_Csharp_5/task36/obj/Debug/net7.0/task36.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_5/task36/obj/Debug/net7.0/task36.genruntimeconfig.cache" beforeDir="false" afterPath="$PROJECT_DIR$/HomeWork_Csharp_5/task36/obj/Debug/net7.0/task36.genruntimeconfig.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_5/task36/obj/Debug/net7.0/task36.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/HomeWork_Csharp_5/task36/obj/Debug/net7.0/task36.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_5/task36/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/HomeWork_Csharp_5/task36/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_5/task36/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/HomeWork_Csharp_5/task36/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_5/task36/obj/task36.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/HomeWork_Csharp_5/task36/obj/task36.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_5/task36/obj/task36.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/HomeWork_Csharp_5/task36/obj/task36.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_5/task36/task36.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/HomeWork_Csharp_5/task36/task36.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_5/task38/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/HomeWork_Csharp_5/task38/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_5/task38/bin/Debug/net7.0/task38.deps.json" beforeDir="false" afterPath="$PROJECT_DIR$/HomeWork_Csharp_5/task38/bin/Debug/net7.0/task38.deps.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_5/task38/bin/Debug/net7.0/task38.runtimeconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/HomeWork_Csharp_5/task38/bin/Debug/net7.0/task38.runtimeconfig.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_5/task38/obj/Debug/net7.0/.NETCoreApp,Version=v7.0.AssemblyAttributes.cs" beforeDir="false" afterPath="$PROJECT_DIR$/HomeWork_Csharp_5/task38/obj/Debug/net7.0/.NETCoreApp,Version=v7.0.AssemblyAttributes.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_5/task38/obj/Debug/net7.0/task38.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/HomeWork_Csharp_5/task38/obj/Debug/net7.0/task38.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_5/task38/obj/Debug/net7.0/task38.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/HomeWork_Csharp_5/task38/obj/Debug/net7.0/task38.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_5/task38/obj/Debug/net7.0/task38.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/HomeWork_Csharp_5/task38/obj/Debug/net7.0/task38.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_5/task38/obj/Debug/net7.0/task38.GlobalUsings.g.cs" beforeDir="false" afterPath="$PROJECT_DIR$/HomeWork_Csharp_5/task38/obj/Debug/net7.0/task38.GlobalUsings.g.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_5/task38/obj/Debug/net7.0/task38.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/HomeWork_Csharp_5/task38/obj/Debug/net7.0/task38.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_5/task38/obj/Debug/net7.0/task38.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/HomeWork_Csharp_5/task38/obj/Debug/net7.0/task38.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_5/task38/obj/Debug/net7.0/task38.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/HomeWork_Csharp_5/task38/obj/Debug/net7.0/task38.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_5/task38/obj/Debug/net7.0/task38.genruntimeconfig.cache" beforeDir="false" afterPath="$PROJECT_DIR$/HomeWork_Csharp_5/task38/obj/Debug/net7.0/task38.genruntimeconfig.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_5/task38/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/HomeWork_Csharp_5/task38/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_5/task38/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/HomeWork_Csharp_5/task38/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_5/task38/obj/task38.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/HomeWork_Csharp_5/task38/obj/task38.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_5/task38/obj/task38.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/HomeWork_Csharp_5/task38/obj/task38.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_5/task38/task38.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/HomeWork_Csharp_5/task38/task38.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_6/task41/Program.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_6/task41/bin/Debug/net7.0/task41.deps.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_6/task41/bin/Debug/net7.0/task41.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_6/task41/bin/Debug/net7.0/task41.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_6/task41/bin/Debug/net7.0/task41.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_6/task41/bin/Debug/net7.0/task41.runtimeconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_6/task41/obj/Debug/net7.0/.NETCoreApp,Version=v7.0.AssemblyAttributes.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_6/task41/obj/Debug/net7.0/apphost.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_6/task41/obj/Debug/net7.0/ref/task41.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_6/task41/obj/Debug/net7.0/refint/task41.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_6/task41/obj/Debug/net7.0/task41.AssemblyInfo.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_6/task41/obj/Debug/net7.0/task41.AssemblyInfoInputs.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_6/task41/obj/Debug/net7.0/task41.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_6/task41/obj/Debug/net7.0/task41.GlobalUsings.g.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_6/task41/obj/Debug/net7.0/task41.assets.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_6/task41/obj/Debug/net7.0/task41.csproj.AssemblyReference.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_6/task41/obj/Debug/net7.0/task41.csproj.CoreCompileInputs.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_6/task41/obj/Debug/net7.0/task41.csproj.FileListAbsolute.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_6/task41/obj/Debug/net7.0/task41.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_6/task41/obj/Debug/net7.0/task41.genruntimeconfig.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_6/task41/obj/Debug/net7.0/task41.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_6/task41/obj/project.assets.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_6/task41/obj/project.nuget.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_6/task41/obj/task41.csproj.nuget.dgspec.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_6/task41/obj/task41.csproj.nuget.g.props" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_6/task41/obj/task41.csproj.nuget.g.targets" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_6/task41/task41.csproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_6/task43/Program.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_6/task43/bin/Debug/net7.0/task43" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_6/task43/bin/Debug/net7.0/task43 2.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_6/task43/bin/Debug/net7.0/task43 2.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_6/task43/bin/Debug/net7.0/task43.deps.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_6/task43/bin/Debug/net7.0/task43.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_6/task43/bin/Debug/net7.0/task43.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_6/task43/bin/Debug/net7.0/task43.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_6/task43/bin/Debug/net7.0/task43.runtimeconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_6/task43/obj/Debug/net7.0/.NETCoreApp,Version=v7.0.AssemblyAttributes.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_6/task43/obj/Debug/net7.0/apphost" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_6/task43/obj/Debug/net7.0/apphost.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_6/task43/obj/Debug/net7.0/ref/task43.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_6/task43/obj/Debug/net7.0/refint/task43.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_6/task43/obj/Debug/net7.0/task43.AssemblyInfo.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_6/task43/obj/Debug/net7.0/task43.AssemblyInfoInputs.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_6/task43/obj/Debug/net7.0/task43.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_6/task43/obj/Debug/net7.0/task43.GlobalUsings.g.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_6/task43/obj/Debug/net7.0/task43.assets.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_6/task43/obj/Debug/net7.0/task43.csproj.AssemblyReference.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_6/task43/obj/Debug/net7.0/task43.csproj.CoreCompileInputs.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_6/task43/obj/Debug/net7.0/task43.csproj.FileListAbsolute.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_6/task43/obj/Debug/net7.0/task43.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_6/task43/obj/Debug/net7.0/task43.genruntimeconfig.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_6/task43/obj/Debug/net7.0/task43.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_6/task43/obj/project.assets.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_6/task43/obj/project.nuget.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_6/task43/obj/task43.csproj.nuget.dgspec.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_6/task43/obj/task43.csproj.nuget.g.props" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_6/task43/obj/task43.csproj.nuget.g.targets" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_6/task43/task43.csproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_7/task47/Program.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_7/task47/bin/Debug/net7.0/task47" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_7/task47/bin/Debug/net7.0/task47.deps.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_7/task47/bin/Debug/net7.0/task47.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_7/task47/bin/Debug/net7.0/task47.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_7/task47/bin/Debug/net7.0/task47.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_7/task47/bin/Debug/net7.0/task47.runtimeconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_7/task47/obj/Debug/net7.0/.NETCoreApp,Version=v7.0.AssemblyAttributes.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_7/task47/obj/Debug/net7.0/apphost" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_7/task47/obj/Debug/net7.0/apphost.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_7/task47/obj/Debug/net7.0/ref/task47.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_7/task47/obj/Debug/net7.0/refint/task47.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_7/task47/obj/Debug/net7.0/task47.AssemblyInfo.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_7/task47/obj/Debug/net7.0/task47.AssemblyInfoInputs.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_7/task47/obj/Debug/net7.0/task47.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_7/task47/obj/Debug/net7.0/task47.GlobalUsings.g.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_7/task47/obj/Debug/net7.0/task47.assets.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_7/task47/obj/Debug/net7.0/task47.csproj.AssemblyReference.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_7/task47/obj/Debug/net7.0/task47.csproj.CoreCompileInputs.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_7/task47/obj/Debug/net7.0/task47.csproj.FileListAbsolute.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_7/task47/obj/Debug/net7.0/task47.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_7/task47/obj/Debug/net7.0/task47.genruntimeconfig.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_7/task47/obj/Debug/net7.0/task47.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_7/task47/obj/project.assets.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_7/task47/obj/project.nuget.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_7/task47/obj/task47.csproj.nuget.dgspec.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_7/task47/obj/task47.csproj.nuget.g.props" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_7/task47/obj/task47.csproj.nuget.g.targets" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_7/task47/task47.csproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_7/task50/Program.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_7/task50/bin/Debug/net7.0/task50" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_7/task50/bin/Debug/net7.0/task50.deps.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_7/task50/bin/Debug/net7.0/task50.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_7/task50/bin/Debug/net7.0/task50.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_7/task50/bin/Debug/net7.0/task50.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_7/task50/bin/Debug/net7.0/task50.runtimeconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_7/task50/obj/Debug/net7.0/.NETCoreApp,Version=v7.0.AssemblyAttributes.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_7/task50/obj/Debug/net7.0/apphost" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_7/task50/obj/Debug/net7.0/apphost.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_7/task50/obj/Debug/net7.0/ref/task50.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_7/task50/obj/Debug/net7.0/refint/task50.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_7/task50/obj/Debug/net7.0/task50.AssemblyInfo.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_7/task50/obj/Debug/net7.0/task50.AssemblyInfoInputs.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_7/task50/obj/Debug/net7.0/task50.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_7/task50/obj/Debug/net7.0/task50.GlobalUsings.g.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_7/task50/obj/Debug/net7.0/task50.assets.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_7/task50/obj/Debug/net7.0/task50.csproj.AssemblyReference.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_7/task50/obj/Debug/net7.0/task50.csproj.CoreCompileInputs.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_7/task50/obj/Debug/net7.0/task50.csproj.FileListAbsolute.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_7/task50/obj/Debug/net7.0/task50.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_7/task50/obj/Debug/net7.0/task50.genruntimeconfig.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_7/task50/obj/Debug/net7.0/task50.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_7/task50/obj/project.assets.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_7/task50/obj/project.nuget.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_7/task50/obj/task50.csproj.nuget.dgspec.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_7/task50/obj/task50.csproj.nuget.g.props" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_7/task50/obj/task50.csproj.nuget.g.targets" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_7/task50/task50.csproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_7/task52/Program.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_7/task52/bin/Debug/net7.0/task52.deps.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_7/task52/bin/Debug/net7.0/task52.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_7/task52/bin/Debug/net7.0/task52.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_7/task52/bin/Debug/net7.0/task52.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_7/task52/bin/Debug/net7.0/task52.runtimeconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_7/task52/obj/Debug/net7.0/.NETCoreApp,Version=v7.0.AssemblyAttributes.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_7/task52/obj/Debug/net7.0/apphost.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_7/task52/obj/Debug/net7.0/ref/task52.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_7/task52/obj/Debug/net7.0/refint/task52.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_7/task52/obj/Debug/net7.0/task52.AssemblyInfo.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_7/task52/obj/Debug/net7.0/task52.AssemblyInfoInputs.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_7/task52/obj/Debug/net7.0/task52.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_7/task52/obj/Debug/net7.0/task52.GlobalUsings.g.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_7/task52/obj/Debug/net7.0/task52.assets.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_7/task52/obj/Debug/net7.0/task52.csproj.AssemblyReference.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_7/task52/obj/Debug/net7.0/task52.csproj.CoreCompileInputs.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_7/task52/obj/Debug/net7.0/task52.csproj.FileListAbsolute.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_7/task52/obj/Debug/net7.0/task52.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_7/task52/obj/Debug/net7.0/task52.genruntimeconfig.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_7/task52/obj/Debug/net7.0/task52.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_7/task52/obj/project.assets.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_7/task52/obj/project.nuget.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_7/task52/obj/task52.csproj.nuget.dgspec.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_7/task52/obj/task52.csproj.nuget.g.props" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_7/task52/obj/task52.csproj.nuget.g.targets" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork_Csharp_7/task52/task52.csproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/.vscode/extensions.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/.vscode/launch.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/.vscode/tasks.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/Shrap" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/Task_5/Program.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/Task_5/Task_5.csproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/Task_5/bin/Debug/net7.0/Task_5.deps.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/Task_5/bin/Debug/net7.0/Task_5.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/Task_5/bin/Debug/net7.0/Task_5.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/Task_5/bin/Debug/net7.0/Task_5.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/Task_5/bin/Debug/net7.0/Task_5.runtimeconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/Task_5/obj/Debug/net7.0/.NETCoreApp,Version=v7.0.AssemblyAttributes.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/Task_5/obj/Debug/net7.0/Task_5.AssemblyInfo.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/Task_5/obj/Debug/net7.0/Task_5.AssemblyInfoInputs.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/Task_5/obj/Debug/net7.0/Task_5.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/Task_5/obj/Debug/net7.0/Task_5.GlobalUsings.g.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/Task_5/obj/Debug/net7.0/Task_5.assets.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/Task_5/obj/Debug/net7.0/Task_5.csproj.AssemblyReference.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/Task_5/obj/Debug/net7.0/Task_5.csproj.CoreCompileInputs.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/Task_5/obj/Debug/net7.0/Task_5.csproj.FileListAbsolute.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/Task_5/obj/Debug/net7.0/Task_5.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/Task_5/obj/Debug/net7.0/Task_5.genruntimeconfig.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/Task_5/obj/Debug/net7.0/Task_5.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/Task_5/obj/Debug/net7.0/apphost.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/Task_5/obj/Debug/net7.0/ref/Task_5.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/Task_5/obj/Debug/net7.0/refint/Task_5.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/Task_5/obj/Task_5.csproj.nuget.dgspec.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/Task_5/obj/Task_5.csproj.nuget.g.props" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/Task_5/obj/Task_5.csproj.nuget.g.targets" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/Task_5/obj/project.assets.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/Task_5/obj/project.nuget.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task10/Program.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task10/bin/Debug/net7.0/task10.deps.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task10/bin/Debug/net7.0/task10.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task10/bin/Debug/net7.0/task10.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task10/bin/Debug/net7.0/task10.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task10/bin/Debug/net7.0/task10.runtimeconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task10/obj/Debug/net7.0/.NETCoreApp,Version=v7.0.AssemblyAttributes.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task10/obj/Debug/net7.0/apphost.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task10/obj/Debug/net7.0/ref/task10.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task10/obj/Debug/net7.0/refint/task10.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task10/obj/Debug/net7.0/task10.AssemblyInfo.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task10/obj/Debug/net7.0/task10.AssemblyInfoInputs.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task10/obj/Debug/net7.0/task10.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task10/obj/Debug/net7.0/task10.GlobalUsings.g.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task10/obj/Debug/net7.0/task10.assets.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task10/obj/Debug/net7.0/task10.csproj.AssemblyReference.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task10/obj/Debug/net7.0/task10.csproj.CoreCompileInputs.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task10/obj/Debug/net7.0/task10.csproj.FileListAbsolute.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task10/obj/Debug/net7.0/task10.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task10/obj/Debug/net7.0/task10.genruntimeconfig.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task10/obj/Debug/net7.0/task10.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task10/obj/project.assets.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task10/obj/project.nuget.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task10/obj/task10.csproj.nuget.dgspec.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task10/obj/task10.csproj.nuget.g.props" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task10/obj/task10.csproj.nuget.g.targets" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task10/task10.csproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task11/Program.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task11/bin/Debug/net7.0/task11.deps.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task11/bin/Debug/net7.0/task11.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task11/bin/Debug/net7.0/task11.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task11/bin/Debug/net7.0/task11.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task11/bin/Debug/net7.0/task11.runtimeconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task11/obj/Debug/net7.0/.NETCoreApp,Version=v7.0.AssemblyAttributes.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task11/obj/Debug/net7.0/apphost.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task11/obj/Debug/net7.0/ref/task11.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task11/obj/Debug/net7.0/refint/task11.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task11/obj/Debug/net7.0/task11.AssemblyInfo.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task11/obj/Debug/net7.0/task11.AssemblyInfoInputs.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task11/obj/Debug/net7.0/task11.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task11/obj/Debug/net7.0/task11.GlobalUsings.g.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task11/obj/Debug/net7.0/task11.assets.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task11/obj/Debug/net7.0/task11.csproj.AssemblyReference.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task11/obj/Debug/net7.0/task11.csproj.CoreCompileInputs.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task11/obj/Debug/net7.0/task11.csproj.FileListAbsolute.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task11/obj/Debug/net7.0/task11.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task11/obj/Debug/net7.0/task11.genruntimeconfig.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task11/obj/Debug/net7.0/task11.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task11/obj/project.assets.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task11/obj/project.nuget.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task11/obj/task11.csproj.nuget.dgspec.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task11/obj/task11.csproj.nuget.g.props" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task11/obj/task11.csproj.nuget.g.targets" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task11/task11.csproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task12/Program.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task12/bin/Debug/net7.0/task12" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task12/bin/Debug/net7.0/task12.deps.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task12/bin/Debug/net7.0/task12.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task12/bin/Debug/net7.0/task12.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task12/bin/Debug/net7.0/task12.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task12/bin/Debug/net7.0/task12.runtimeconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task12/obj/Debug/net7.0/.NETCoreApp,Version=v7.0.AssemblyAttributes.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task12/obj/Debug/net7.0/apphost" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task12/obj/Debug/net7.0/apphost.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task12/obj/Debug/net7.0/ref/task12.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task12/obj/Debug/net7.0/refint/task12.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task12/obj/Debug/net7.0/task12.AssemblyInfo.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task12/obj/Debug/net7.0/task12.AssemblyInfoInputs.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task12/obj/Debug/net7.0/task12.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task12/obj/Debug/net7.0/task12.GlobalUsings.g.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task12/obj/Debug/net7.0/task12.assets.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task12/obj/Debug/net7.0/task12.csproj.AssemblyReference.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task12/obj/Debug/net7.0/task12.csproj.CoreCompileInputs.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task12/obj/Debug/net7.0/task12.csproj.FileListAbsolute.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task12/obj/Debug/net7.0/task12.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task12/obj/Debug/net7.0/task12.genruntimeconfig.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task12/obj/Debug/net7.0/task12.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task12/obj/project.assets.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task12/obj/project.nuget.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task12/obj/task12.csproj.nuget.dgspec.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task12/obj/task12.csproj.nuget.g.props" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task12/obj/task12.csproj.nuget.g.targets" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task12/task12.csproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task13/Program.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task13/bin/Debug/net7.0/task13" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task13/bin/Debug/net7.0/task13.deps.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task13/bin/Debug/net7.0/task13.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task13/bin/Debug/net7.0/task13.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task13/bin/Debug/net7.0/task13.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task13/bin/Debug/net7.0/task13.runtimeconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task13/obj/Debug/net7.0/.NETCoreApp,Version=v7.0.AssemblyAttributes.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task13/obj/Debug/net7.0/apphost" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task13/obj/Debug/net7.0/apphost.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task13/obj/Debug/net7.0/ref/task13.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task13/obj/Debug/net7.0/refint/task13.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task13/obj/Debug/net7.0/task13.AssemblyInfo.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task13/obj/Debug/net7.0/task13.AssemblyInfoInputs.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task13/obj/Debug/net7.0/task13.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task13/obj/Debug/net7.0/task13.GlobalUsings.g.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task13/obj/Debug/net7.0/task13.assets.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task13/obj/Debug/net7.0/task13.csproj.AssemblyReference.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task13/obj/Debug/net7.0/task13.csproj.CoreCompileInputs.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task13/obj/Debug/net7.0/task13.csproj.FileListAbsolute.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task13/obj/Debug/net7.0/task13.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task13/obj/Debug/net7.0/task13.genruntimeconfig.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task13/obj/Debug/net7.0/task13.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task13/obj/project.assets.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task13/obj/project.nuget.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task13/obj/task13.csproj.nuget.dgspec.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task13/obj/task13.csproj.nuget.g.props" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task13/obj/task13.csproj.nuget.g.targets" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task13/task13.csproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task14/Program.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task14/bin/Debug/net7.0/task14.deps.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task14/bin/Debug/net7.0/task14.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task14/bin/Debug/net7.0/task14.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task14/bin/Debug/net7.0/task14.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task14/bin/Debug/net7.0/task14.runtimeconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task14/obj/Debug/net7.0/.NETCoreApp,Version=v7.0.AssemblyAttributes.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task14/obj/Debug/net7.0/apphost.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task14/obj/Debug/net7.0/ref/task14.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task14/obj/Debug/net7.0/refint/task14.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task14/obj/Debug/net7.0/task14.AssemblyInfo.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task14/obj/Debug/net7.0/task14.AssemblyInfoInputs.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task14/obj/Debug/net7.0/task14.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task14/obj/Debug/net7.0/task14.GlobalUsings.g.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task14/obj/Debug/net7.0/task14.assets.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task14/obj/Debug/net7.0/task14.csproj.AssemblyReference.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task14/obj/Debug/net7.0/task14.csproj.CoreCompileInputs.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task14/obj/Debug/net7.0/task14.csproj.FileListAbsolute.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task14/obj/Debug/net7.0/task14.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task14/obj/Debug/net7.0/task14.genruntimeconfig.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task14/obj/Debug/net7.0/task14.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task14/obj/project.assets.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task14/obj/project.nuget.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task14/obj/task14.csproj.nuget.dgspec.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task14/obj/task14.csproj.nuget.g.props" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task14/obj/task14.csproj.nuget.g.targets" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task14/task14.csproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task15/Program.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task15/bin/Debug/net7.0/task15" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task15/bin/Debug/net7.0/task15 2.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task15/bin/Debug/net7.0/task15 2.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task15/bin/Debug/net7.0/task15.deps.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task15/bin/Debug/net7.0/task15.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task15/bin/Debug/net7.0/task15.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task15/bin/Debug/net7.0/task15.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task15/bin/Debug/net7.0/task15.runtimeconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task15/obj/Debug/net7.0/.NETCoreApp,Version=v7.0.AssemblyAttributes.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task15/obj/Debug/net7.0/apphost" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task15/obj/Debug/net7.0/apphost.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task15/obj/Debug/net7.0/ref/task15.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task15/obj/Debug/net7.0/refint/task15.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task15/obj/Debug/net7.0/task15.AssemblyInfo.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task15/obj/Debug/net7.0/task15.AssemblyInfoInputs.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task15/obj/Debug/net7.0/task15.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task15/obj/Debug/net7.0/task15.GlobalUsings.g.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task15/obj/Debug/net7.0/task15.assets.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task15/obj/Debug/net7.0/task15.csproj.AssemblyReference.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task15/obj/Debug/net7.0/task15.csproj.CoreCompileInputs.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task15/obj/Debug/net7.0/task15.csproj.FileListAbsolute.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task15/obj/Debug/net7.0/task15.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task15/obj/Debug/net7.0/task15.genruntimeconfig.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task15/obj/Debug/net7.0/task15.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task15/obj/project.assets.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task15/obj/project.nuget.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task15/obj/task15.csproj.nuget.dgspec.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task15/obj/task15.csproj.nuget.g.props" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task15/obj/task15.csproj.nuget.g.targets" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task15/task15.csproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task16/Program.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task16/bin/Debug/net7.0/task16" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task16/bin/Debug/net7.0/task16.deps.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task16/bin/Debug/net7.0/task16.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task16/bin/Debug/net7.0/task16.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task16/bin/Debug/net7.0/task16.runtimeconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task16/obj/Debug/net7.0/.NETCoreApp,Version=v7.0.AssemblyAttributes.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task16/obj/Debug/net7.0/apphost" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task16/obj/Debug/net7.0/ref/task16.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task16/obj/Debug/net7.0/refint/task16.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task16/obj/Debug/net7.0/task16.AssemblyInfo.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task16/obj/Debug/net7.0/task16.AssemblyInfoInputs.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task16/obj/Debug/net7.0/task16.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task16/obj/Debug/net7.0/task16.GlobalUsings.g.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task16/obj/Debug/net7.0/task16.assets.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task16/obj/Debug/net7.0/task16.csproj.AssemblyReference.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task16/obj/Debug/net7.0/task16.csproj.CoreCompileInputs.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task16/obj/Debug/net7.0/task16.csproj.FileListAbsolute.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task16/obj/Debug/net7.0/task16.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task16/obj/Debug/net7.0/task16.genruntimeconfig.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task16/obj/Debug/net7.0/task16.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task16/obj/project.assets.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task16/obj/project.nuget.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task16/obj/task16.csproj.nuget.dgspec.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task16/obj/task16.csproj.nuget.g.props" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task16/obj/task16.csproj.nuget.g.targets" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task16/task16.csproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task17/Program.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task17/bin/Debug/net7.0/task17.deps.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task17/bin/Debug/net7.0/task17.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task17/bin/Debug/net7.0/task17.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task17/bin/Debug/net7.0/task17.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task17/bin/Debug/net7.0/task17.runtimeconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task17/obj/Debug (1)/net7.0/.NETCoreApp,Version=v7.0.AssemblyAttributes.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task17/obj/Debug (1)/net7.0/task17.AssemblyInfo.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task17/obj/Debug (1)/net7.0/task17.AssemblyInfoInputs.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task17/obj/Debug (1)/net7.0/task17.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task17/obj/Debug (1)/net7.0/task17.GlobalUsings.g.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task17/obj/Debug (1)/net7.0/task17.assets.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task17/obj/Debug (1)/net7.0/task17.csproj.AssemblyReference.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task17/obj/Debug (1)/net7.0/task17.csproj.CoreCompileInputs.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task17/obj/Debug (1)/net7.0/task17.csproj.FileListAbsolute.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task17/obj/Debug/net7.0/.NETCoreApp,Version=v7.0.AssemblyAttributes.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task17/obj/Debug/net7.0/apphost.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task17/obj/Debug/net7.0/ref/task17.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task17/obj/Debug/net7.0/refint/task17.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task17/obj/Debug/net7.0/task17.AssemblyInfo.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task17/obj/Debug/net7.0/task17.AssemblyInfoInputs.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task17/obj/Debug/net7.0/task17.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task17/obj/Debug/net7.0/task17.GlobalUsings.g.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task17/obj/Debug/net7.0/task17.assets.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task17/obj/Debug/net7.0/task17.csproj.AssemblyReference.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task17/obj/Debug/net7.0/task17.csproj.CoreCompileInputs.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task17/obj/Debug/net7.0/task17.csproj.FileListAbsolute.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task17/obj/Debug/net7.0/task17.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task17/obj/Debug/net7.0/task17.genruntimeconfig.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task17/obj/Debug/net7.0/task17.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task17/obj/project.assets.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task17/obj/project.nuget.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task17/obj/task17.csproj.nuget.dgspec.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task17/obj/task17.csproj.nuget.g.props" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task17/obj/task17.csproj.nuget.g.targets" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task17/task17.csproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task18/Program.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task18/bin/Debug/net7.0/task18.deps.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task18/bin/Debug/net7.0/task18.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task18/bin/Debug/net7.0/task18.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task18/bin/Debug/net7.0/task18.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task18/bin/Debug/net7.0/task18.runtimeconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task18/obj/Debug/net7.0/.NETCoreApp,Version=v7.0.AssemblyAttributes.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task18/obj/Debug/net7.0/apphost.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task18/obj/Debug/net7.0/ref/task18.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task18/obj/Debug/net7.0/refint/task18.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task18/obj/Debug/net7.0/task18.AssemblyInfo.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task18/obj/Debug/net7.0/task18.AssemblyInfoInputs.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task18/obj/Debug/net7.0/task18.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task18/obj/Debug/net7.0/task18.GlobalUsings.g.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task18/obj/Debug/net7.0/task18.assets.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task18/obj/Debug/net7.0/task18.csproj.AssemblyReference.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task18/obj/Debug/net7.0/task18.csproj.CoreCompileInputs.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task18/obj/Debug/net7.0/task18.csproj.FileListAbsolute.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task18/obj/Debug/net7.0/task18.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task18/obj/Debug/net7.0/task18.genruntimeconfig.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task18/obj/Debug/net7.0/task18.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task18/obj/project.assets.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task18/obj/project.nuget.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task18/obj/task18.csproj.nuget.dgspec.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task18/obj/task18.csproj.nuget.g.props" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task18/obj/task18.csproj.nuget.g.targets" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task18/task18.csproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task19/Program.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task19/obj/Debug/net7.0/.NETCoreApp,Version=v7.0.AssemblyAttributes.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task19/obj/Debug/net7.0/task19.AssemblyInfo.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task19/obj/Debug/net7.0/task19.AssemblyInfoInputs.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task19/obj/Debug/net7.0/task19.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task19/obj/Debug/net7.0/task19.GlobalUsings.g.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task19/obj/Debug/net7.0/task19.assets.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task19/obj/Debug/net7.0/task19.csproj.AssemblyReference.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task19/obj/project.assets.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task19/obj/project.nuget.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task19/obj/task19.csproj.nuget.dgspec.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task19/obj/task19.csproj.nuget.g.props" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task19/obj/task19.csproj.nuget.g.targets" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task19/task19.csproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task20/Program.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task20/obj/Debug/net7.0/.NETCoreApp,Version=v7.0.AssemblyAttributes.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task20/obj/Debug/net7.0/task20.AssemblyInfo.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task20/obj/Debug/net7.0/task20.AssemblyInfoInputs.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task20/obj/Debug/net7.0/task20.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task20/obj/Debug/net7.0/task20.GlobalUsings.g.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task20/obj/Debug/net7.0/task20.assets.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task20/obj/Debug/net7.0/task20.csproj.AssemblyReference.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task20/obj/project.assets.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task20/obj/project.nuget.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task20/obj/task20.csproj.nuget.dgspec.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task20/obj/task20.csproj.nuget.g.props" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task20/obj/task20.csproj.nuget.g.targets" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task20/task20.csproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task21/Program.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task21/obj/Debug/net7.0/.NETCoreApp,Version=v7.0.AssemblyAttributes.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task21/obj/Debug/net7.0/task21.AssemblyInfo.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task21/obj/Debug/net7.0/task21.AssemblyInfoInputs.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task21/obj/Debug/net7.0/task21.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task21/obj/Debug/net7.0/task21.GlobalUsings.g.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task21/obj/Debug/net7.0/task21.assets.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task21/obj/Debug/net7.0/task21.csproj.AssemblyReference.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task21/obj/project.assets.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task21/obj/project.nuget.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task21/obj/task21.csproj.nuget.dgspec.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task21/obj/task21.csproj.nuget.g.props" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task21/obj/task21.csproj.nuget.g.targets" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task21/task21.csproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task22/Program.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task22/obj/Debug/net7.0/.NETCoreApp,Version=v7.0.AssemblyAttributes.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task22/obj/Debug/net7.0/task22.AssemblyInfo.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task22/obj/Debug/net7.0/task22.AssemblyInfoInputs.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task22/obj/Debug/net7.0/task22.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task22/obj/Debug/net7.0/task22.GlobalUsings.g.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task22/obj/Debug/net7.0/task22.assets.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task22/obj/Debug/net7.0/task22.csproj.AssemblyReference.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task22/obj/project.assets.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task22/obj/project.nuget.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task22/obj/task22.csproj.nuget.dgspec.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task22/obj/task22.csproj.nuget.g.props" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task22/obj/task22.csproj.nuget.g.targets" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task22/task22.csproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task23_Lesson 7_2D arrays/Program.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task23_Lesson 7_2D arrays/bin/Debug/net7.0/task23_Lesson 7_2D arrays.deps.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task23_Lesson 7_2D arrays/bin/Debug/net7.0/task23_Lesson 7_2D arrays.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task23_Lesson 7_2D arrays/bin/Debug/net7.0/task23_Lesson 7_2D arrays.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task23_Lesson 7_2D arrays/bin/Debug/net7.0/task23_Lesson 7_2D arrays.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task23_Lesson 7_2D arrays/bin/Debug/net7.0/task23_Lesson 7_2D arrays.runtimeconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task23_Lesson 7_2D arrays/obj/Debug/net7.0/.NETCoreApp,Version=v7.0.AssemblyAttributes.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task23_Lesson 7_2D arrays/obj/Debug/net7.0/apphost.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task23_Lesson 7_2D arrays/obj/Debug/net7.0/ref/task23_Lesson 7_2D arrays.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task23_Lesson 7_2D arrays/obj/Debug/net7.0/refint/task23_Lesson 7_2D arrays.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task23_Lesson 7_2D arrays/obj/Debug/net7.0/task23_Lesson 7_2D arrays.AssemblyInfo.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task23_Lesson 7_2D arrays/obj/Debug/net7.0/task23_Lesson 7_2D arrays.AssemblyInfoInputs.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task23_Lesson 7_2D arrays/obj/Debug/net7.0/task23_Lesson 7_2D arrays.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task23_Lesson 7_2D arrays/obj/Debug/net7.0/task23_Lesson 7_2D arrays.GlobalUsings.g.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task23_Lesson 7_2D arrays/obj/Debug/net7.0/task23_Lesson 7_2D arrays.assets.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task23_Lesson 7_2D arrays/obj/Debug/net7.0/task23_Lesson 7_2D arrays.csproj.AssemblyReference.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task23_Lesson 7_2D arrays/obj/Debug/net7.0/task23_Lesson 7_2D arrays.csproj.CoreCompileInputs.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task23_Lesson 7_2D arrays/obj/Debug/net7.0/task23_Lesson 7_2D arrays.csproj.FileListAbsolute.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task23_Lesson 7_2D arrays/obj/Debug/net7.0/task23_Lesson 7_2D arrays.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task23_Lesson 7_2D arrays/obj/Debug/net7.0/task23_Lesson 7_2D arrays.genruntimeconfig.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task23_Lesson 7_2D arrays/obj/Debug/net7.0/task23_Lesson 7_2D arrays.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task23_Lesson 7_2D arrays/obj/project.assets.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task23_Lesson 7_2D arrays/obj/project.nuget.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task23_Lesson 7_2D arrays/obj/task23_Lesson 7_2D arrays.csproj.nuget.dgspec.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task23_Lesson 7_2D arrays/obj/task23_Lesson 7_2D arrays.csproj.nuget.g.props" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task23_Lesson 7_2D arrays/obj/task23_Lesson 7_2D arrays.csproj.nuget.g.targets" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task23_Lesson 7_2D arrays/task23_Lesson 7_2D arrays.csproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task24_Lesson 7_2D arrays/Program.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task24_Lesson 7_2D arrays/bin/Debug/net7.0/task24_Lesson 7_2D arrays.deps.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task24_Lesson 7_2D arrays/bin/Debug/net7.0/task24_Lesson 7_2D arrays.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task24_Lesson 7_2D arrays/bin/Debug/net7.0/task24_Lesson 7_2D arrays.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task24_Lesson 7_2D arrays/bin/Debug/net7.0/task24_Lesson 7_2D arrays.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task24_Lesson 7_2D arrays/bin/Debug/net7.0/task24_Lesson 7_2D arrays.runtimeconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task24_Lesson 7_2D arrays/obj/Debug/net7.0/.NETCoreApp,Version=v7.0.AssemblyAttributes.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task24_Lesson 7_2D arrays/obj/Debug/net7.0/apphost.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task24_Lesson 7_2D arrays/obj/Debug/net7.0/ref/task24_Lesson 7_2D arrays.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task24_Lesson 7_2D arrays/obj/Debug/net7.0/refint/task24_Lesson 7_2D arrays.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task24_Lesson 7_2D arrays/obj/Debug/net7.0/task24_Lesson 7_2D arrays.AssemblyInfo.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task24_Lesson 7_2D arrays/obj/Debug/net7.0/task24_Lesson 7_2D arrays.AssemblyInfoInputs.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task24_Lesson 7_2D arrays/obj/Debug/net7.0/task24_Lesson 7_2D arrays.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task24_Lesson 7_2D arrays/obj/Debug/net7.0/task24_Lesson 7_2D arrays.GlobalUsings.g.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task24_Lesson 7_2D arrays/obj/Debug/net7.0/task24_Lesson 7_2D arrays.assets.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task24_Lesson 7_2D arrays/obj/Debug/net7.0/task24_Lesson 7_2D arrays.csproj.AssemblyReference.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task24_Lesson 7_2D arrays/obj/Debug/net7.0/task24_Lesson 7_2D arrays.csproj.CoreCompileInputs.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task24_Lesson 7_2D arrays/obj/Debug/net7.0/task24_Lesson 7_2D arrays.csproj.FileListAbsolute.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task24_Lesson 7_2D arrays/obj/Debug/net7.0/task24_Lesson 7_2D arrays.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task24_Lesson 7_2D arrays/obj/Debug/net7.0/task24_Lesson 7_2D arrays.genruntimeconfig.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task24_Lesson 7_2D arrays/obj/Debug/net7.0/task24_Lesson 7_2D arrays.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task24_Lesson 7_2D arrays/obj/project.assets.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task24_Lesson 7_2D arrays/obj/project.nuget.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task24_Lesson 7_2D arrays/obj/task24_Lesson 7_2D arrays.csproj.nuget.dgspec.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task24_Lesson 7_2D arrays/obj/task24_Lesson 7_2D arrays.csproj.nuget.g.props" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task24_Lesson 7_2D arrays/obj/task24_Lesson 7_2D arrays.csproj.nuget.g.targets" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task24_Lesson 7_2D arrays/task24_Lesson 7_2D arrays.csproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task25_Lesson 7_2D arrays/Program.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task25_Lesson 7_2D arrays/bin/Debug/net7.0/task25_Lesson 7_2D arrays" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task25_Lesson 7_2D arrays/bin/Debug/net7.0/task25_Lesson 7_2D arrays.deps.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task25_Lesson 7_2D arrays/bin/Debug/net7.0/task25_Lesson 7_2D arrays.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task25_Lesson 7_2D arrays/bin/Debug/net7.0/task25_Lesson 7_2D arrays.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task25_Lesson 7_2D arrays/bin/Debug/net7.0/task25_Lesson 7_2D arrays.runtimeconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task25_Lesson 7_2D arrays/obj/Debug/net7.0/.NETCoreApp,Version=v7.0.AssemblyAttributes.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task25_Lesson 7_2D arrays/obj/Debug/net7.0/apphost" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task25_Lesson 7_2D arrays/obj/Debug/net7.0/ref/task25_Lesson 7_2D arrays.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task25_Lesson 7_2D arrays/obj/Debug/net7.0/refint/task25_Lesson 7_2D arrays.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task25_Lesson 7_2D arrays/obj/Debug/net7.0/task25_Lesson 7_2D arrays.AssemblyInfo.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task25_Lesson 7_2D arrays/obj/Debug/net7.0/task25_Lesson 7_2D arrays.AssemblyInfoInputs.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task25_Lesson 7_2D arrays/obj/Debug/net7.0/task25_Lesson 7_2D arrays.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task25_Lesson 7_2D arrays/obj/Debug/net7.0/task25_Lesson 7_2D arrays.GlobalUsings.g.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task25_Lesson 7_2D arrays/obj/Debug/net7.0/task25_Lesson 7_2D arrays.assets.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task25_Lesson 7_2D arrays/obj/Debug/net7.0/task25_Lesson 7_2D arrays.csproj.AssemblyReference.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task25_Lesson 7_2D arrays/obj/Debug/net7.0/task25_Lesson 7_2D arrays.csproj.CoreCompileInputs.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task25_Lesson 7_2D arrays/obj/Debug/net7.0/task25_Lesson 7_2D arrays.csproj.FileListAbsolute.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task25_Lesson 7_2D arrays/obj/Debug/net7.0/task25_Lesson 7_2D arrays.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task25_Lesson 7_2D arrays/obj/Debug/net7.0/task25_Lesson 7_2D arrays.genruntimeconfig.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task25_Lesson 7_2D arrays/obj/Debug/net7.0/task25_Lesson 7_2D arrays.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task25_Lesson 7_2D arrays/obj/project.assets.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task25_Lesson 7_2D arrays/obj/project.nuget.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task25_Lesson 7_2D arrays/obj/task25_Lesson 7_2D arrays.csproj.nuget.dgspec.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task25_Lesson 7_2D arrays/obj/task25_Lesson 7_2D arrays.csproj.nuget.g.props" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task25_Lesson 7_2D arrays/obj/task25_Lesson 7_2D arrays.csproj.nuget.g.targets" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task25_Lesson 7_2D arrays/task25_Lesson 7_2D arrays.csproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task9/Program.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task9/bin/Debug/net7.0/task9.deps.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task9/bin/Debug/net7.0/task9.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task9/bin/Debug/net7.0/task9.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task9/bin/Debug/net7.0/task9.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task9/bin/Debug/net7.0/task9.runtimeconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task9/obj/Debug/net7.0/.NETCoreApp,Version=v7.0.AssemblyAttributes.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task9/obj/Debug/net7.0/apphost.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task9/obj/Debug/net7.0/ref/task9.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task9/obj/Debug/net7.0/refint/task9.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task9/obj/Debug/net7.0/task9.AssemblyInfo.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task9/obj/Debug/net7.0/task9.AssemblyInfoInputs.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task9/obj/Debug/net7.0/task9.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task9/obj/Debug/net7.0/task9.GlobalUsings.g.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task9/obj/Debug/net7.0/task9.assets.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task9/obj/Debug/net7.0/task9.csproj.AssemblyReference.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task9/obj/Debug/net7.0/task9.csproj.CoreCompileInputs.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task9/obj/Debug/net7.0/task9.csproj.FileListAbsolute.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task9/obj/Debug/net7.0/task9.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task9/obj/Debug/net7.0/task9.genruntimeconfig.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task9/obj/Debug/net7.0/task9.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task9/obj/project.assets.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task9/obj/project.nuget.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task9/obj/task9.csproj.nuget.dgspec.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task9/obj/task9.csproj.nuget.g.props" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task9/obj/task9.csproj.nuget.g.targets" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task9/task9.csproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task_1/Program.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task_1/bin/Debug/net7.0/task_1.deps.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task_1/bin/Debug/net7.0/task_1.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task_1/bin/Debug/net7.0/task_1.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task_1/bin/Debug/net7.0/task_1.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task_1/bin/Debug/net7.0/task_1.runtimeconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task_1/obj/Debug/net7.0/.NETCoreApp,Version=v7.0.AssemblyAttributes.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task_1/obj/Debug/net7.0/apphost.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task_1/obj/Debug/net7.0/ref/task_1.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task_1/obj/Debug/net7.0/refint/task_1.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task_1/obj/Debug/net7.0/task_1.AssemblyInfo.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task_1/obj/Debug/net7.0/task_1.AssemblyInfoInputs.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task_1/obj/Debug/net7.0/task_1.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task_1/obj/Debug/net7.0/task_1.GlobalUsings.g.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task_1/obj/Debug/net7.0/task_1.assets.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task_1/obj/Debug/net7.0/task_1.csproj.AssemblyReference.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task_1/obj/Debug/net7.0/task_1.csproj.CoreCompileInputs.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task_1/obj/Debug/net7.0/task_1.csproj.FileListAbsolute.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task_1/obj/Debug/net7.0/task_1.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task_1/obj/Debug/net7.0/task_1.genruntimeconfig.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task_1/obj/Debug/net7.0/task_1.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task_1/obj/project.assets.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task_1/obj/project.nuget.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task_1/obj/task_1.csproj.nuget.dgspec.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task_1/obj/task_1.csproj.nuget.g.props" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task_1/obj/task_1.csproj.nuget.g.targets" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task_1/task_1.csproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task_2/Program.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task_2/bin/Debug/net7.0/task_2.deps.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task_2/bin/Debug/net7.0/task_2.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task_2/bin/Debug/net7.0/task_2.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task_2/bin/Debug/net7.0/task_2.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task_2/bin/Debug/net7.0/task_2.runtimeconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task_2/obj/Debug/net7.0/.NETCoreApp,Version=v7.0.AssemblyAttributes.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task_2/obj/Debug/net7.0/apphost.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task_2/obj/Debug/net7.0/ref/task_2.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task_2/obj/Debug/net7.0/refint/task_2.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task_2/obj/Debug/net7.0/task_2.AssemblyInfo.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task_2/obj/Debug/net7.0/task_2.AssemblyInfoInputs.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task_2/obj/Debug/net7.0/task_2.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task_2/obj/Debug/net7.0/task_2.GlobalUsings.g.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task_2/obj/Debug/net7.0/task_2.assets.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task_2/obj/Debug/net7.0/task_2.csproj.AssemblyReference.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task_2/obj/Debug/net7.0/task_2.csproj.CoreCompileInputs.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task_2/obj/Debug/net7.0/task_2.csproj.FileListAbsolute.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task_2/obj/Debug/net7.0/task_2.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task_2/obj/Debug/net7.0/task_2.genruntimeconfig.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task_2/obj/Debug/net7.0/task_2.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task_2/obj/project.assets.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task_2/obj/project.nuget.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task_2/obj/task_2.csproj.nuget.dgspec.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task_2/obj/task_2.csproj.nuget.g.props" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task_2/obj/task_2.csproj.nuget.g.targets" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task_2/task_2.csproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task_3/Program.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task_3/obj/Debug/net7.0/.NETCoreApp,Version=v7.0.AssemblyAttributes.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task_3/obj/Debug/net7.0/task_3.AssemblyInfo.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task_3/obj/Debug/net7.0/task_3.AssemblyInfoInputs.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task_3/obj/Debug/net7.0/task_3.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task_3/obj/Debug/net7.0/task_3.GlobalUsings.g.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task_3/obj/Debug/net7.0/task_3.assets.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task_3/obj/Debug/net7.0/task_3.csproj.AssemblyReference.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task_3/obj/Debug/net7.0/task_3.csproj.CoreCompileInputs.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task_3/obj/Debug/net7.0/task_3.csproj.FileListAbsolute.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task_3/obj/project.assets.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task_3/obj/project.nuget.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task_3/obj/task_3.csproj.nuget.dgspec.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task_3/obj/task_3.csproj.nuget.g.props" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task_3/obj/task_3.csproj.nuget.g.targets" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task_3/task_3.csproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task_4/Program.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task_4/bin/Debug/net7.0/task_4.deps.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task_4/bin/Debug/net7.0/task_4.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task_4/bin/Debug/net7.0/task_4.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task_4/bin/Debug/net7.0/task_4.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task_4/bin/Debug/net7.0/task_4.runtimeconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task_4/obj/Debug/net7.0/.NETCoreApp,Version=v7.0.AssemblyAttributes.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task_4/obj/Debug/net7.0/apphost.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task_4/obj/Debug/net7.0/ref/task_4.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task_4/obj/Debug/net7.0/refint/task_4.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task_4/obj/Debug/net7.0/task_4.AssemblyInfo.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task_4/obj/Debug/net7.0/task_4.AssemblyInfoInputs.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task_4/obj/Debug/net7.0/task_4.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task_4/obj/Debug/net7.0/task_4.GlobalUsings.g.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task_4/obj/Debug/net7.0/task_4.assets.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task_4/obj/Debug/net7.0/task_4.csproj.AssemblyReference.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task_4/obj/Debug/net7.0/task_4.csproj.CoreCompileInputs.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task_4/obj/Debug/net7.0/task_4.csproj.FileListAbsolute.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task_4/obj/Debug/net7.0/task_4.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task_4/obj/Debug/net7.0/task_4.genruntimeconfig.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task_4/obj/Debug/net7.0/task_4.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task_4/obj/project.assets.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task_4/obj/project.nuget.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task_4/obj/task_4.csproj.nuget.dgspec.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task_4/obj/task_4.csproj.nuget.g.props" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task_4/obj/task_4.csproj.nuget.g.targets" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task_4/task_4.csproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task_6/Program.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task_6/bin/Debug/net7.0/task_6.deps.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task_6/bin/Debug/net7.0/task_6.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task_6/bin/Debug/net7.0/task_6.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task_6/bin/Debug/net7.0/task_6.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task_6/bin/Debug/net7.0/task_6.runtimeconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task_6/obj/Debug/net7.0/.NETCoreApp,Version=v7.0.AssemblyAttributes.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task_6/obj/Debug/net7.0/apphost.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task_6/obj/Debug/net7.0/ref/task_6.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task_6/obj/Debug/net7.0/refint/task_6.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task_6/obj/Debug/net7.0/task_6.AssemblyInfo.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task_6/obj/Debug/net7.0/task_6.AssemblyInfoInputs.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task_6/obj/Debug/net7.0/task_6.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task_6/obj/Debug/net7.0/task_6.GlobalUsings.g.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task_6/obj/Debug/net7.0/task_6.assets.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task_6/obj/Debug/net7.0/task_6.csproj.AssemblyReference.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task_6/obj/Debug/net7.0/task_6.csproj.CoreCompileInputs.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task_6/obj/Debug/net7.0/task_6.csproj.FileListAbsolute.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task_6/obj/Debug/net7.0/task_6.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task_6/obj/Debug/net7.0/task_6.genruntimeconfig.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task_6/obj/Debug/net7.0/task_6.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task_6/obj/project.assets.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task_6/obj/project.nuget.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task_6/obj/task_6.csproj.nuget.dgspec.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task_6/obj/task_6.csproj.nuget.g.props" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task_6/obj/task_6.csproj.nuget.g.targets" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task_6/task_6.csproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task_7/Program.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task_7/bin/Debug/net7.0/task_7.deps.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task_7/bin/Debug/net7.0/task_7.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task_7/bin/Debug/net7.0/task_7.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task_7/bin/Debug/net7.0/task_7.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task_7/bin/Debug/net7.0/task_7.runtimeconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task_7/obj/Debug/net7.0/.NETCoreApp,Version=v7.0.AssemblyAttributes.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task_7/obj/Debug/net7.0/apphost.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task_7/obj/Debug/net7.0/ref/task_7.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task_7/obj/Debug/net7.0/refint/task_7.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task_7/obj/Debug/net7.0/task_7.AssemblyInfo.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task_7/obj/Debug/net7.0/task_7.AssemblyInfoInputs.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task_7/obj/Debug/net7.0/task_7.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task_7/obj/Debug/net7.0/task_7.GlobalUsings.g.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task_7/obj/Debug/net7.0/task_7.assets.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task_7/obj/Debug/net7.0/task_7.csproj.AssemblyReference.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task_7/obj/Debug/net7.0/task_7.csproj.CoreCompileInputs.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task_7/obj/Debug/net7.0/task_7.csproj.FileListAbsolute.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task_7/obj/Debug/net7.0/task_7.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task_7/obj/Debug/net7.0/task_7.genruntimeconfig.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task_7/obj/Debug/net7.0/task_7.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task_7/obj/project.assets.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task_7/obj/project.nuget.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task_7/obj/task_7.csproj.nuget.dgspec.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task_7/obj/task_7.csproj.nuget.g.props" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task_7/obj/task_7.csproj.nuget.g.targets" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task_7/task_7.csproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task_8/Program.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task_8/bin/Debug/net7.0/task_8" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task_8/bin/Debug/net7.0/task_8 2.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task_8/bin/Debug/net7.0/task_8 2.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task_8/bin/Debug/net7.0/task_8.deps.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task_8/bin/Debug/net7.0/task_8.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task_8/bin/Debug/net7.0/task_8.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task_8/bin/Debug/net7.0/task_8.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task_8/bin/Debug/net7.0/task_8.runtimeconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task_8/obj/Debug/net7.0/.NETCoreApp,Version=v7.0.AssemblyAttributes.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task_8/obj/Debug/net7.0/apphost" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task_8/obj/Debug/net7.0/apphost.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task_8/obj/Debug/net7.0/ref/task_8.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task_8/obj/Debug/net7.0/refint/task_8.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task_8/obj/Debug/net7.0/task_8 2.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task_8/obj/Debug/net7.0/task_8.AssemblyInfo.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task_8/obj/Debug/net7.0/task_8.AssemblyInfoInputs.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task_8/obj/Debug/net7.0/task_8.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task_8/obj/Debug/net7.0/task_8.GlobalUsings.g.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task_8/obj/Debug/net7.0/task_8.assets.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task_8/obj/Debug/net7.0/task_8.csproj.AssemblyReference.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task_8/obj/Debug/net7.0/task_8.csproj.CoreCompileInputs.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task_8/obj/Debug/net7.0/task_8.csproj.FileListAbsolute.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task_8/obj/Debug/net7.0/task_8.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task_8/obj/Debug/net7.0/task_8.genruntimeconfig.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task_8/obj/Debug/net7.0/task_8.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task_8/obj/project.assets.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task_8/obj/project.nuget.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task_8/obj/task_8.csproj.nuget.dgspec.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task_8/obj/task_8.csproj.nuget.g.props" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task_8/obj/task_8.csproj.nuget.g.targets" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workclass/task_8/task_8.csproj" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="2LSWsRJecOe8q02juqLjP1ppED8" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "/Users/denisdavydov/Library/CloudStorage/GoogleDrive-slim20011988@gmail.com/Мой диск/geekbrains/Csharp/seminar/Homework"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="80ee44bb-45b5-42c9-ba4d-47d77d1ae1f1" name="Changes" comment="" />
+      <created>1675865173140</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1675865173140</updated>
+    </task>
+    <servers />
+  </component>
+</project>
